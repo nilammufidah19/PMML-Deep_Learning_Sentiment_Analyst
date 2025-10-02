@@ -1,0 +1,11 @@
+datasets
+torch
+transformers
+pandas
+nltk
+scikit-learn
+matplotlib
+seaborn
+numpy
+sentence-transformers
+Sastrawi
