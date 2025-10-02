@@ -11,11 +11,12 @@ pip install -r requirements.txt
 
 ## Referensi
 
-📄 Paper acuan penelitian: JCSTECH Journal
+📄 Paper acuan penelitian: [JCSTECH Journal](https://journal.unwidha.ac.id/index.php/jcstech/article/view/345)  
 
-🤗 Hugging Face Model: indolem/indobertweet-base-uncased
+🤗 Hugging Face Model: [indolem/indobertweet-base-uncased](https://huggingface.co/indolem/indobertweet-base-uncased)  
 
-📊 Dataset: Kaggle - Analisis Sentimen Komentar TikTok Progres IKN
+📊 Dataset: [Kaggle - Analisis Sentimen Komentar TikTok Progres IKN](https://www.kaggle.com/datasets/najmarafifah/analisis-sentimen-komentar-tiktok-progres-ikn)
+
 
 ## Proses Modeling
 Proses modeling dilakukan melalui beberapa tahapan utama mulai dari preprocessing teks, embedding dengan IndoBERTweet, pelatihan model (MLP dan BiLSTM), hingga evaluasi performa.
